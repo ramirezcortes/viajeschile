@@ -1,0 +1,58 @@
+
+body {
+width: 100%;
+height: auto;
+font-family: 'Cabin', sans-serif;
+background-color: #212529;
+}
+
+
+#irarriba{
+        padding: 10px;
+        position: fixed;
+        bottom: 100px;
+        right: 50px;
+        background-color: rgba(255, 255, 0, 0.7);
+        font-weight: bold;
+        width: 40px;
+        height: 40px;
+        font-size: 0.8em;
+        text-align: center;
+        display: none;
+        border-radius: 50%;
+    }
+ #irarriba a{
+        color: #fff;
+}
+
+
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+
+a.navbar-brand {
+width: 137px;
+height: 46px;
+font-size: 2em;
+font-family:;
+  }
+
+.llamado {
+padding-top: ;
+padding-bottom:20%;
+ }
+
+
+
+
+  
